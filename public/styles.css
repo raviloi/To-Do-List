@@ -5,7 +5,7 @@ ul {
 
 html {
     background-color: #E4E9FD;
-    background-image: -webkit-linear-gradient(65deg, #186F65 50%, #FCE09B 50%);
+    background-image: -webkit-linear-gradient(65deg, #3876BF 50%, #F3F0CA 50%);
     min-height: 1000px;
     font-family: 'helvetica neue';
 }
@@ -16,7 +16,7 @@ h1 {
 }
 
 h4 {
-    color: #B2533E;
+    color: #E1AA74;
     padding: 10px;
     text-align: right;
 }
@@ -37,7 +37,7 @@ h4 {
     box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
   }
 #heading {
-    background-color: #186F65;
+    background-color: #3876BF;
     text-align: center;
 }
 
@@ -83,7 +83,7 @@ button {
     width: 50px;
     border-radius: 50%;
     border-color: transparent;
-    background-color: #186F65;
+    background-color: #3876BF;
     color: #fff;
     font-size: 30px;
     padding-bottom: 6px;
@@ -103,7 +103,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
     outline: none;
-    box-shadow: inset 0 -3px 0 0 #B2533E;
+    box-shadow: inset 0 -3px 0 0 #E1AA74;
 }
 
 ::placeholder {
@@ -112,7 +112,7 @@ input[type="text"]:focus {
 }
 
 footer {
-    color: white;
+    color: #E1AA74;
 
     text-align: center;
 }
